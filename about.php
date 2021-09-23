@@ -103,19 +103,7 @@
 					
 					<div class="card-deck">
 					
-						<div class="card bg-transparent text-center">
-							<div class="text-center">
-								<img class="rounded-circle border border-primary mb-2" src="team-photos/CBH.jpg" alt="Generic placeholder image" width="140" height="140">
-							</div>
-							<div class="card-body pb-0 pt-0">
-								<h6>Chris Baynham-Hughes</h6>	
-								<p class="small">Head of UK Business Development RedHat Emerging Technologies & DevOps at Atos</p>
-							</div>
-							<div class="card-footer text-center pt-0">
-								<?=RenderLinkedInLink('https://www.linkedin.com/in/chrisbh/')?>
-								<?=RenderTwitterLink('https://twitter.com/OnlyChrisBH')?>	
-							</div>
-						</div>
+						
 
 	
 						<div class="card bg-transparent text-center">
